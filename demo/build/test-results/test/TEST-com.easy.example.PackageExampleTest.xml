@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.easy.example.PackageExampleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-08-06T11:31:15" hostname="v-archlinux" time="0.003">
+  <properties/>
+  <testcase name="testWhat" classname="com.easy.example.PackageExampleTest" time="0.003"/>
+  <testcase name="testDriveMotoBike" classname="com.easy.example.PackageExampleTest" time="0.0"/>
+  <system-out><![CDATA[This is What ? 
+Drive The Motorbike...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
